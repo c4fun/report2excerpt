@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+myvenv
+/static
+.idea/*
+.DS_Store/
+/venv27
+/Files_to_process
